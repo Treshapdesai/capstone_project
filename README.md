@@ -58,4 +58,8 @@ There are advantages to using pixel values as data as compared to raw images. Fi
 |Lesser memory space since numbers|More memory space with images stored|
  |More data can be added for various types of cancers |Lesser data results in limited use of website created for classification|
 
+This interactive tool can also be used by training pathologists to aid them in their diagnosis/education purposes.
 
+Lastly, pathologists often refer to clinical literature to classify patients mutations in order to decide on a treatment. This manual classification can be automated using Machine Learning Models. The Summary table above shows that Naiive Bayes performs better than the other models for classifying clinical evidence text into one of the 9 mutation types. In addition, researchers can use this tool to focus their research interests on a particular class of mutation to find novel therapies for colorectal cancer. 
+
+The website : https://treshapdesai.wixsite.com/website
