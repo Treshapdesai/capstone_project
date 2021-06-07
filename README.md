@@ -15,6 +15,10 @@ Colorectal Cancer is one of the leading causes of cancer in the US. Preventive m
 7) CNN image data --> Using CNN Model for Raw Image Classification between Tumour and Stroma
 8) Clinical Text Data --> Natural Language Processing using various models and Executive Summary
 
+## Datasets Used
+1) Colorectal cancer image data set: KAGGLE (https://www.kaggle.com/kmader/colorectal-histology-mnist/)
+2) Clinical text data set: KAGGLE (https://www.kaggle.com/c/msk-redefining-cancer-treatment/data)
+
 ## Models and Results
 
 **Summary table for Colorectal Cancer Classification models for 8 Tissue type classes:**
