@@ -40,13 +40,14 @@ Colorectal Cancer is one of the leading causes of cancer in the US. Preventive m
 
 **Summary table for Classification of Clinical Text data into 9 classes of mutation types:**
 
-| Model| Test Accuracy|F1 score|Baseline score for largest class|
+| Model| Test Accuracy|Precision|Baseline score for largest class|
 |:---------:|:---:|:--------:|:--------:|
-|  Naiive Bayes |    0.594 | 0.580   |  0.379  |
-|KNN|  0.524| 0.508   |0.379 |
-|SVC| 0.616|  0.571 | 0.379 |
-|Random Forests|0.584| 0.555   |0.379 |
-|Logistic Regression|0.541| 0.515    |0.379 |
+|  Naiive Bayes |    0.600 | 0.620  |  0.379  |
+|KNN|  0.515| 0.510   |0.379 |
+|SVC| 0.602|  0.575 | 0.379 |
+|Random Forests|0.610| 0.555   |0.379 |
+|Logistic Regression|0.572| 0.544    |0.379 |
+
 
 ## Executive Summary
 
